@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Kishan K Shetty
 
-<!--
-**kishankshetty77/kishankshetty77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+📍 Bangalore, India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning *Python programming*
+- 💡 Interested in *Artificial Intelligence and Machine Learning*
+- 🎯 Goal: Contribute to *Open Source* and crack *Google Summer of Code*
+- 💻 Building beginner to intermediate *Python projects*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills I'm Learning
+- Python
+- Git & GitHub
+- Problem Solving
+- Data Structures (Beginner)
+
+## 📌 Current Focus
+- Building Python projects
+- Improving programming logic
+- Learning open-source contribution workflow
+
+⭐ Always learning and building.
