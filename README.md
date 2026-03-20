@@ -34,3 +34,6 @@ juggling studying, projects, internships and interview prep.
 - Color coded flags: [URGENT] / [SOON] / [OK]
 - AI advisor tells you what to focus on based on your energy level
 - Shows your #1 priority every time you open it
+
+
+[View Project](https://github.com/kishankshetty77/focusiq)
