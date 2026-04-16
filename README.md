@@ -1,13 +1,13 @@
 # Hi 👋 I'm Kishan K Shetty
 
 🎓 Computer Science Engineering Student  
-📍 Bangalore, India  
+📍 Bangalore, India
 
-## 🚀 About Me
-- 🌱 Currently learning *Python programming*
-- 💡 Interested in *Artificial Intelligence and Machine Learning*
-- 🎯 Goal: Contribute to *Open Source* and crack *Google Summer of Code*
-- 💻 Building beginner to intermediate *Python projects*
+## About Me
+- 🎓 CS Engineering student specializing in AI/ML, Bangalore
+- 🔨 Building real products, not just learning theory
+- 🚀 Currently shipping FocusIQ — a live AI productivity web app
+- 📈 Goal: Build tools that solve real problems
 
 ## 🛠 Skills I'm Learning
 - Python
@@ -24,16 +24,46 @@
 
 ## Projects
 
-### FocusIQ - AI Task Prioritizer
+# FocusIQ — AI Task Prioritizer
+
 > Know exactly what to work on right now.
 
-A CLI tool that prioritizes your tasks using AI — built for students
-juggling studying, projects, internships and interview prep.
+An AI-powered productivity web app that helps students prioritize 
+tasks based on deadlines, time estimates, and tags.
 
-- Smart urgency scoring (deadline + effort combined)
-- Color coded flags: [URGENT] / [SOON] / [OK]
-- AI advisor tells you what to focus on based on your energy level
-- Shows your #1 priority every time you open it
+🔗 **Live Demo: https://focusiq-pwr6.onrender.com**
 
+---
 
-[View Project](https://github.com/kishankshetty77/focusiq)
+## What it does
+
+- Add tasks with deadline, time estimate, and tags
+- AI advisor tells you what to do first and exactly why
+- Clean structured output — no fluff, just priorities
+- Delete tasks as you complete them
+
+## Tech Stack
+
+- Python, Flask
+- Groq API (Llama 3.3-70b)
+- Deployed on Render
+
+- ## Run Locally
+
+1. Clone the repo
+   git clone https://github.com/kishankshetty77/focusiq
+   cd focusiq
+
+2. Install dependencies
+   pip install -r requirements.txt
+
+3. Create a .env file in the project folder and add:
+   GROQ_API_KEY=your_groq_api_key_here
+
+4. Run the app
+   python app.py
+
+5. Open your browser and go to:
+   http://localhost:5000
+
+   Built by Kishan K Shetty — CS Engineering Student, Bangalore
