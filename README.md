@@ -16,8 +16,12 @@ Python · Flask · Groq API (gpt-oss-120b) · Git & GitHub · Render
 ## 📌 Currently
 
 - Shipping and improving FocusIQ
-- Learning open-source contribution workflow
+- Contributing to open source
 - Documenting my builder journey on Instagram: [@kishanbuilds](https://instagram.com/kishanbuilds)
+  
+- ## 🤝 Open source
+
+Merged a PR into [Apicurio Registry](https://github.com/Apicurio/apicurio-registry): [Added a PowerShell equivalent of `init-dev.sh` for Windows users](https://github.com/Apicurio/apicurio-registry/pull/9174) (fixes #8535)
 
 ## 📫 Reach me
 
