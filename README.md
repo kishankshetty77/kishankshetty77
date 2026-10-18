@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-Python · Flask · Groq API (Llama 3.3-70B) · Git & GitHub · Render
+Python · Flask · Groq API (gpt-oss-120b) · Git & GitHub · Render
 
 ## 📌 Currently
 
