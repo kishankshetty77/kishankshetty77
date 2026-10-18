@@ -17,7 +17,7 @@ Python · Flask · Groq API (Llama 3.3-70B) · Git & GitHub · Render
 
 - Shipping and improving FocusIQ
 - Learning open-source contribution workflow
-- Documenting my builder journey on Instagram: [@your_handle](https://instagram.com/your_handle)
+- Documenting my builder journey on Instagram: [@kishanbuilds](https://instagram.com/kishanbuilds)
 
 ## 📫 Reach me
 
