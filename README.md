@@ -25,4 +25,4 @@ Merged a PR into [Apicurio Registry](https://github.com/Apicurio/apicurio-regist
 
 ## 📫 Reach me
 
-[LinkedIn](https://linkedin.com/in/kishan-k-shetty) · kishanbkshetty@gmail.com
+[LinkedIn](https://linkedin.com/in/kishan-k-shetty) · kishanbkshetty@gmail.com .
